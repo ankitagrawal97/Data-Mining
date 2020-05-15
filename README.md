@@ -29,8 +29,8 @@ Year: 3rd Year Computer Science and Engineering
 
 Note:
 * 'Image Captioning InceptionV3.ipynb' is the code file containing python code.
-* checkpoint weights are saved in weights folder
-* 'inception_v3_weights_tf_dim_ordering_tf_kernels.h5' is the file containing default weights for InceptionV3.
+* checkpoint weights are not uploaded (>25mb)
+* The file containing default weights for InceptionV3 is not uploaded (>25mb).
 * Images are saved in images folder
 
 # Overview
